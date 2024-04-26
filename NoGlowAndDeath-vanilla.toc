@@ -1,0 +1,7 @@
+## Interface: 11502
+## Title: NoGlowAndDeath
+## Notes: Removes the glow & death effect in WoW Vanilla.
+## Author: Marris
+## Version: @project-version@
+
+NoGlowAndDeath.lua
