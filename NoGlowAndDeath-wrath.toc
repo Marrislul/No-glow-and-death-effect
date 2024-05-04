@@ -1,7 +1,0 @@
-## Interface: 30403
-## Title: NoGlowAndDeath
-## Notes: Removes the glow & death effect in WoW Wrath of the Lich King.
-## Author: Marris
-## Version: @project-version@
-
-NoGlowAndDeath.lua

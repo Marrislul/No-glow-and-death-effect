@@ -3,5 +3,6 @@
 ## Notes: Removes the glow & death effect in WoW Cataclysm.
 ## Author: Marris
 ## Version: @project-version@
+## SavedVariables: NoGlowAndDeath_Settings
 
 NoGlowAndDeath.lua
