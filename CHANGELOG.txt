@@ -1,5 +1,2 @@
-2.0.0:
-- added checkbox for print msg in addon option panel
-- added ffxglow checkbox in addon option panel
-- added ffxdeath checkbox in addon option panel
-- tested with retail, cata and vanilla
+2.0.1:
+- updated version
