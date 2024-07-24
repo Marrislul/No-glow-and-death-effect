@@ -1,8 +1,8 @@
 ## Interface: 110000
 ## Title: NoGlowAndDeath
-## Notes: Removes the glow & death effect in WoW Retail
+## Notes: Removes the glow & death effect in WoW Retail.
 ## Author: Marris
 ## Version: @project-version@
-## SavedVariables: NoGlowAndDeath_Settings
+## SavedVariables: NoGlowAndDeathDB
 
 NoGlowAndDeath.lua

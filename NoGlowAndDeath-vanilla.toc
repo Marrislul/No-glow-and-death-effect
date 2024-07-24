@@ -3,6 +3,6 @@
 ## Notes: Removes the glow & death effect in WoW Vanilla.
 ## Author: Marris
 ## Version: @project-version@
-## SavedVariables: NoGlowAndDeath_Settings
+## SavedVariables: NoGlowAndDeathDB
 
 NoGlowAndDeath.lua
