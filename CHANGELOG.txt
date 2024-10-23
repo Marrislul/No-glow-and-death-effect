@@ -1,3 +1,2 @@
-3.1.0:
-- Version update
-- simplified .toc
+3.1.1:
+- text change
