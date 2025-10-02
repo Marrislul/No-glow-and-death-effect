@@ -1,2 +1,2 @@
-3.2.0:
-- updated for 5.5.0
+3.2.1:
+- updated for 11.2.0
