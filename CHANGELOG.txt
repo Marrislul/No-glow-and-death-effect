@@ -1,2 +1,2 @@
-3.2.3:
-- updated for 11.2.5
+3.3.0:
+- Updated toc file style
