@@ -1,2 +1,2 @@
-3.3.1:
-- updated for 11.2.7
+3.4.0:
+- added support for TBC Classic (2.5.5)

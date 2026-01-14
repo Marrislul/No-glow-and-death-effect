@@ -1,0 +1,8 @@
+## Interface: 20505
+## Title: NoGlowAndDeath
+## Notes: Removes the glow & death effect in WoW.
+## Author: Marris
+## Version: @project-version@
+## SavedVariables: NoGlowAndDeathDB
+
+NoGlowAndDeath.lua
