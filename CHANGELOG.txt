@@ -1,2 +1,2 @@
-3.4.1:
-- added Midnight support
+3.4.2:
+- update to 5.5.3
