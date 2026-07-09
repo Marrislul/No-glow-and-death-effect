@@ -1,4 +1,4 @@
-## Interface: 20505
+## Interface: 20506
 ## Title: NoGlowAndDeath
 ## Notes: Removes the glow & death effect in WoW.
 ## Author: Marris
