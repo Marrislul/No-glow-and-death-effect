@@ -1,4 +1,4 @@
-## Interface: 120100
+## Interface: 120105
 ## Title: NoGlowAndDeath
 ## Notes: Removes the glow & death effect in WoW.
 ## Author: Marris
