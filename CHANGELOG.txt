@@ -1,2 +1,2 @@
-3.4.11:
-- updated for 12.1.5
+3.4.12:
+- added WoW Forever support (1.60.1)
