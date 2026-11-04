@@ -4,5 +4,7 @@
 ## Author: Marris
 ## Version: @project-version@
 ## SavedVariables: NoGlowAndDeathDB
+## OptionalDeps: Ace3
 
+embeds.xml
 NoGlowAndDeath.lua

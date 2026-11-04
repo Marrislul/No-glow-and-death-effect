@@ -1,2 +1,2 @@
-3.4.12:
-- added WoW Forever support (1.60.1)
+3.4.13:
+- fixed embedded Ace3 libraries not being loaded
