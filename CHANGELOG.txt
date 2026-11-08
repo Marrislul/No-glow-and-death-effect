@@ -1,2 +1,3 @@
-3.4.13:
-- fixed embedded Ace3 libraries not being loaded
+3.5.0:
+- WoW Forever: the glow option now uses the game's Bloom Intensity slider, because ffxGlow does nothing there
+- added an icon for the addon list

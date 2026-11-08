@@ -3,6 +3,7 @@
 ## Notes: Removes the glow & death effect in WoW.
 ## Author: Marris
 ## Version: @project-version@
+## IconTexture: Interface\AddOns\NoGlowAndDeath\Media\icon
 ## SavedVariables: NoGlowAndDeathDB
 ## OptionalDeps: Ace3
 
